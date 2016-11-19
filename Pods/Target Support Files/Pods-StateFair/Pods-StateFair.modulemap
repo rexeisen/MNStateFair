@@ -1,0 +1,6 @@
+framework module Pods_StateFair {
+  umbrella header "Pods-StateFair-umbrella.h"
+
+  export *
+  module * { export * }
+}

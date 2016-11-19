@@ -1,0 +1,6 @@
+framework module Pods_StateFairTests {
+  umbrella header "Pods-StateFairTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
